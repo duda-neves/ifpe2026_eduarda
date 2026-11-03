@@ -6,3 +6,5 @@ print('ok')
 print('Ana')
 print('Atividade')
 print('Socorro')
+
+print('Vou reprovar nas provas deleeeeeee')
